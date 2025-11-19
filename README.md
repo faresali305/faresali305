@@ -1,4 +1,4 @@
-<h1 align="left">Hi 👋! My name is Faris Ali Abdelrahman</h1>
+<h1 align="left">Hi 👋! My name is Fares Ali Abdelrahman</h1>
 
 ###
 
@@ -6,7 +6,7 @@
 
 ###
 
-<h3 align="left">Faris Ali Abdelrahman Ali Data Analyst (Level 1) | BIS Student at AAST<br><br>I am a 21-year-old Business Information Systems (BIS) student at the Arab Academy for Science, Technology and Maritime Transport (AAST), currently in my second year. My passion lies at the intersection of business and technology, with a specific focus on Data Analysis, where I am currently building my foundation (Level 1).<br><br>Beyond academics, I am a proactive learner committed to self-development. I have honed my soft skills through the "Meshyary" program—a partnership between the Ministry of Youth and Sports and UNICEF—where I gained valuable life and career skills. I am culturally curious, with a dream to travel the world and explore diverse traditions. I take pride in my Egyptian heritage and aim to make a global impact. 🌍✈️📈</h3>
+<h3 align="left">Fares Ali Abdelrahman Ali Data Analyst (Level 1) | BIS Student at AAST<br><br>I am a 21-year-old Business Information Systems (BIS) student at the Arab Academy for Science, Technology and Maritime Transport (AAST), currently in my second year. My passion lies at the intersection of business and technology, with a specific focus on Data Analysis, where I am currently building my foundation (Level 1).<br><br>Beyond academics, I am a proactive learner committed to self-development. I have honed my soft skills through the "Meshyary" program—a partnership between the Ministry of Youth and Sports and UNICEF—where I gained valuable life and career skills. I am culturally curious, with a dream to travel the world and explore diverse traditions. I take pride in my Egyptian heritage and aim to make a global impact. 🌍✈️📈</h3>
 
 ###
 
@@ -81,12 +81,6 @@
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
   </a>
 </div>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/faresali305/faresali305/output/snake.svg" alt="Snake animation" />
 
 ###
 
